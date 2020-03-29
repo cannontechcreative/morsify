@@ -1,2 +1,3 @@
 rootProject.name='morsify'
 include ':app'
+include ':learnjava'
